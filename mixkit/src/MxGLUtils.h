@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxGLUtils.h,v 1.3 1999/12/08 17:18:15 garland Exp $
+  $Id: MxGLUtils.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

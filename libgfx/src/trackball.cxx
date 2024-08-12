@@ -5,7 +5,7 @@
   This code is based on the virtual trackball mechanism developed by
   Gavin Bell of Silicon Graphics.
 
-  $Id: trackball.cxx,v 1.7 2002/03/12 17:52:14 garland Exp $
+  $Id: trackball.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

@@ -5,11 +5,12 @@
   The I/O code in this file was originally based on the example.c
   skeleton code distributed with the PNG library.
 
-  $Id: raster-png.cxx,v 1.3 2002/03/13 17:59:55 garland Exp $
+  $Id: raster-png.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 
 #include <vector>
+#include <cstring>
 #include <gfx/gfx.h>
 #include <gfx/raster.h>
 
@@ -39,7 +40,8 @@ ByteRaster *read_png_image(const char *file_name)
    // Because we didn't set up any error handlers, we need to be
    // prepared to handle longjmps out of the library on error
    // conditions.
-   if( setjmp(png_ptr->jmpbuf) )
+   /*if( setjmp(png_ptr->jmpbuf) )*/
+   if( setjmp(png_jmpbuf(png_ptr)))
    {
       png_destroy_read_struct(&png_ptr, &info_ptr, NULL);
       fclose(fp);
@@ -101,7 +103,7 @@ ByteRaster *read_png_image(const char *file_name)
    unsigned char *pixel = img->pixel(0,0);
    for(row=0; row<height; row++)
    {
-       memcpy(pixel, row_pointers[row], nbytes);
+       std::memcpy(pixel, row_pointers[row], nbytes);
        pixel += nbytes;
    }
 
@@ -129,7 +131,8 @@ bool write_png_image(const char *file_name, const ByteRaster& img)
       return false;
    }
 
-   if( setjmp(png_ptr->jmpbuf) )
+   /*if( setjmp(png_ptr->jmpbuf) )*/
+   if( setjmp(png_jmpbuf(png_ptr)))
    {
       fclose(fp);
       png_destroy_write_struct(&png_ptr,  (png_infopp)NULL);

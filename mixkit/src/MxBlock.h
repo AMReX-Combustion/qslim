@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxBlock.h,v 1.18.2.1 2004/07/01 18:38:41 garland Exp $
+  $Id: MxBlock.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

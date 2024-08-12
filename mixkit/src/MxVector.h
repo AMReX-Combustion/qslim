@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxVector.h,v 1.9 1998/10/28 16:16:06 garland Exp $
+  $Id: MxVector.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxMat2.h,v 1.10 2000/11/20 20:36:38 garland Exp $
+  $Id: MxMat2.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

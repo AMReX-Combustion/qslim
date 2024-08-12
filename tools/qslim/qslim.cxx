@@ -6,13 +6,15 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: qslim.cxx,v 1.10 2000/11/20 20:52:41 garland Exp $
+  $Id: qslim.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 
 #include <stdmix.h>
 #include <MxTimer.h>
 #include "qslim.h"
+
+//#include "ParmParse.H"
 
 static ostream& vfcount(ostream& out, uint v, uint f)
 {

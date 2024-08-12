@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxSMF.cxx,v 1.31 2000/12/13 15:52:00 garland Exp $
+  $Id: MxSMF.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

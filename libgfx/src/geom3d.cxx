@@ -2,7 +2,7 @@
 
   Handy 3D geometrical primitives
 
-  $Id: geom3d.cxx,v 1.2 2001/03/02 03:56:43 garland Exp $
+  $Id: geom3d.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

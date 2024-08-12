@@ -7,7 +7,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smf2iv.cxx,v 1.1 1998/11/06 19:42:44 garland Exp $
+  $Id: smf2iv.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

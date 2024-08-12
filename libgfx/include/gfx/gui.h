@@ -13,7 +13,7 @@
   supported: one where the application window consists primarily of an
   OpenGL drawing canvas.
 
-  $Id: gui.h,v 1.13 2003/04/09 17:06:38 zelinka Exp $
+  $Id: gui.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

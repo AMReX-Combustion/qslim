@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxGLDebug.cxx,v 1.3 1998/10/26 21:08:55 garland Exp $
+  $Id: MxGLDebug.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

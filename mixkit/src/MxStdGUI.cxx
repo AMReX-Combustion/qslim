@@ -4,7 +4,7 @@
 
   Copyright (C) 1999 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxStdGUI.cxx,v 1.9.2.1 2004/07/01 18:46:58 garland Exp $
+  $Id: MxStdGUI.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

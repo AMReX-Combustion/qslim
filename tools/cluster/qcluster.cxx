@@ -7,7 +7,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: qcluster.cxx,v 1.4 2000/06/09 17:30:53 garland Exp $
+  $Id: qcluster.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

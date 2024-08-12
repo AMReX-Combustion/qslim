@@ -9,7 +9,7 @@
 	See Hoppe's Recon software for an alternative adaptation of the
 	Numerical Recipes code.
   
-  $Id: MxMat4-jacobi.cxx,v 1.6 1999/01/22 17:24:47 garland Exp $
+  $Id: MxMat4-jacobi.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

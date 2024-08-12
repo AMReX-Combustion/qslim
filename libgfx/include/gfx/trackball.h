@@ -8,7 +8,7 @@
 
   Virtual trackball rotation control.
   
-  $Id: trackball.h,v 1.7 2002/03/12 17:52:14 garland Exp $
+  $Id: trackball.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

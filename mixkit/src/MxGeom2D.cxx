@@ -4,7 +4,7 @@
 
   Copyright (C) 1999 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxGeom2D.cxx,v 1.1 1999/05/12 17:58:13 garland Exp $
+  $Id: MxGeom2D.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

@@ -5,7 +5,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: output.cxx,v 1.4 1999/10/18 15:55:10 garland Exp $
+  $Id: output.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

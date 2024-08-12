@@ -2,7 +2,7 @@
 
   TIFF image file format support.
   
-  $Id: raster-tiff.cxx,v 1.5 2001/10/02 15:58:26 garland Exp $
+  $Id: raster-tiff.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

@@ -5,7 +5,7 @@
   The I/O code in this file was originally based on the example.c
   skeleton code distributed with the JPEG library (release 6b).
 
-  $Id: raster-jpeg.cxx,v 1.1 2000/04/27 21:35:33 garland Exp $
+  $Id: raster-jpeg.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

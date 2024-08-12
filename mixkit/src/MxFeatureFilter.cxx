@@ -7,7 +7,7 @@
 
   Michael Garland, 1999
 
-  $Id: MxFeatureFilter.cxx,v 1.4.2.1 2004/07/01 18:47:32 garland Exp $
+  $Id: MxFeatureFilter.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

@@ -9,7 +9,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smfsphere.cxx,v 1.2 1998/10/27 01:21:43 garland Exp $
+  $Id: smfsphere.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

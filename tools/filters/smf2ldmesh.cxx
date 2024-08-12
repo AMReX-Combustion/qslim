@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smf2ldmesh.cxx,v 1.2 1998/04/20 16:13:28 garland Exp $
+  $Id: smf2ldmesh.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

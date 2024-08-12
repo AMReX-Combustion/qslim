@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxStdSlim.cxx,v 1.4 1999/01/08 18:56:30 garland Exp $
+  $Id: MxStdSlim.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

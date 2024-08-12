@@ -8,7 +8,7 @@
 
   Common base class for ball-based rotators (e.g., Trackball & Arcball).
   
-  $Id: baseball.h,v 1.2 2003/08/13 15:40:32 garland Exp $
+  $Id: baseball.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

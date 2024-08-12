@@ -7,6 +7,8 @@ IMG_SRCS = raster.cxx raster-pnm.cxx raster-tiff.cxx raster-jpeg.cxx \
 MISC_SRCS = time.cxx script.cxx
 GUI_SRCS = gui.cxx gltools.cxx baseball.cxx trackball.cxx arcball.cxx
 
+CXXFLAGS += -std=c++11
+
 SRCS = $(VEC_SRCS) $(GEO_SRCS) $(IMG_SRCS) $(MISC_SRCS) $(GUI_SRCS)
 OBJS = $(SRCS:.cxx=.o)
 

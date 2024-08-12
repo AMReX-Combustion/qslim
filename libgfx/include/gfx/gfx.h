@@ -8,7 +8,7 @@
 
   Main header file for the libgfx graphics library.
 
-  $Id: gfx.h,v 1.7 2002/09/11 18:51:19 garland Exp $
+  $Id: gfx.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

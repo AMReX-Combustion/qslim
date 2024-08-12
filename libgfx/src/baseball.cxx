@@ -2,10 +2,12 @@
 
   Common code for ball-based rotation controllers.
 
-  $Id: baseball.cxx,v 1.2 2003/08/13 15:40:32 garland Exp $
+  $Id: baseball.cxx,v 1.2 2008/12/10 22:50:18 marc Exp $
 
  ************************************************************************/
 
+#include <string>
+#include <iostream>
 #include <gfx/gfx.h>
 #include <gfx/gl.h>
 #include <gfx/baseball.h>

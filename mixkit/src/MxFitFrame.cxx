@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxFitFrame.cxx,v 1.9.2.1 2002/01/31 18:38:37 garland Exp $
+  $Id: MxFitFrame.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

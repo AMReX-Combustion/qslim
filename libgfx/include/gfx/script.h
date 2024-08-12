@@ -11,7 +11,7 @@
   This is the THIRD major revision of this code.  It represents a
   significant departure from the previous scripting structure.
     
-  $Id: script.h,v 1.14 2003/07/25 10:51:25 garland Exp $
+  $Id: script.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

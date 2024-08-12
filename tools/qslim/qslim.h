@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: qslim.h,v 1.17.2.1 2002/01/31 19:53:14 garland Exp $
+  $Id: qslim.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 
@@ -22,7 +22,8 @@
 
 typedef MxDynBlock<MxPairContraction> QSlimLog;
 
-enum OutputFormat { SMF, PM, MMF, LOG, IV, VRML };
+enum OutputFormat { SMF, PM, MMF, LOG, IV, VRML, MEF };
+enum InputFormat { iSMF, iMEF };
 
 ////////////////////////////////////////////////////////////////////////
 //
@@ -40,6 +41,7 @@ extern double meshing_penalty;
 extern bool will_join_only;
 extern bool be_quiet;
 extern OutputFormat output_format;
+extern InputFormat input_format;
 extern char *output_filename;
 
 extern MxSMFReader *smf;
@@ -65,6 +67,7 @@ extern void input_file(const char *);
 extern void defer_file_inclusion(char *);
 extern void include_deferred_files();
 extern void slim_history_callback(const MxPairContraction&,float);
+extern bool select_input_format(const char *);
 
 ////////////////////////////////////////////////////////////////////////
 //

@@ -2,7 +2,7 @@
 
   Handy functions for common OpenGL tasks
 
-  $Id: gltools.cxx,v 1.9 2002/04/02 16:57:53 garland Exp $
+  $Id: gltools.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

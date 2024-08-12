@@ -11,7 +11,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxDynBlock.h,v 1.14.2.1 2004/07/01 18:38:41 garland Exp $
+  $Id: MxDynBlock.h,v 1.2 2007/10/23 00:31:30 marc Exp $
 
  ************************************************************************/
 
@@ -35,13 +35,13 @@ public:
 
     void room_for(int len)
     {
-	if( length()<len ) resize(len);
+	if( length()<len ) MxBlock<T>::resize(len);
 	fill = len;
     }
 
     T& add()
     {
-	if( length()==total_space() )  resize(total_space() * 2);
+	if( length()==total_space() )  MxBlock<T>::resize(total_space() * 2);
 	fill++;
 	return last();
     }
@@ -62,8 +62,8 @@ public:
     //
     int size() const { return length(); }
 
-    typename MxBlock<T>::iterator end()       { return begin()+size(); }
-    typename MxBlock<T>::const_iterator end() const { return begin()+size(); }
+    typename MxBlock<T>::iterator end()       { return MxBlock<T>::begin()+MxBlock<T>::size(); }
+    typename MxBlock<T>::const_iterator end() const { return MxBlock<T>::begin()+MxBlock<T>::size(); }
 
     void push_back(const T& t) { add(t); }
 };

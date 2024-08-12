@@ -2,7 +2,7 @@
 
   Support code for handling various tasks under Win32
 
-  $Id: wintools.cxx,v 1.1 2002/03/19 20:47:22 garland Exp $
+  $Id: wintools.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

@@ -1,4 +1,4 @@
-# $Id: gfx-config.in,v 1.9 2002/06/13 18:34:59 garland Exp $
+# $Id: gfx-config.in,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
 CC = @CC@
 CXX = @CXX@

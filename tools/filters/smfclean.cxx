@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smfclean.cxx,v 1.5 1998/08/03 13:15:04 garland Exp $
+  $Id: smfclean.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

@@ -8,7 +8,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smfmeasure.cxx,v 1.3 1998/06/18 12:11:44 garland Exp $
+  $Id: smfmeasure.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

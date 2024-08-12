@@ -7,7 +7,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxFitFrame-2.cxx,v 1.2 1998/10/26 21:08:52 garland Exp $
+  $Id: MxFitFrame-2.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

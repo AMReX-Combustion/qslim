@@ -6,7 +6,7 @@
   allow the user to interact with it.  It can also be used as a simple
   prototype for writing more complex interactive programs.
 
-  $Id: smfview.cxx,v 1.7 2000/02/11 19:41:29 garland Exp $
+  $Id: smfview.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

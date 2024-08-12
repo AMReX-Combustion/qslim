@@ -9,7 +9,7 @@
   Support code for using MFC.  At the moment, this just makes sure that
   we include the right headers.
 
-  $Id: mfc.h,v 1.1 2002/03/19 20:46:55 garland Exp $
+  $Id: mfc.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

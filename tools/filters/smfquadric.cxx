@@ -11,7 +11,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smfquadric.cxx,v 1.3 1998/10/27 01:05:45 garland Exp $
+  $Id: smfquadric.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

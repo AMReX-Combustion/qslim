@@ -2,7 +2,7 @@
 
   Routines for measuring time.
 
-  $Id: time.cxx,v 1.1 2000/04/26 18:56:26 garland Exp $
+  $Id: time.cxx,v 1.2 2008/12/10 22:48:36 marc Exp $
 
  ************************************************************************/
 
@@ -60,7 +60,7 @@ double get_cpu_time()
 }
 
 #elif defined(HAVE_TIMES)
-
+#include "sys/times.h"
 double get_cpu_time()
 {
     struct tms t;

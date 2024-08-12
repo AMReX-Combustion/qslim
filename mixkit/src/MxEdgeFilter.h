@@ -7,7 +7,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxEdgeFilter.h,v 1.2 1998/10/26 21:08:50 garland Exp $
+  $Id: MxEdgeFilter.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

@@ -5,7 +5,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxStdRender.cxx,v 1.14.4.1 2004/07/01 18:55:58 garland Exp $
+  $Id: MxStdRender.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

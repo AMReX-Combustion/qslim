@@ -8,7 +8,7 @@
 
   Handy functions for common OpenGL tasks
 
-  $Id: gltools.h,v 1.3 2000/05/23 19:23:40 garland Exp $
+  $Id: gltools.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

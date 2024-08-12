@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxQVis3.cxx,v 1.10.2.1 2004/07/01 19:02:06 garland Exp $
+  $Id: MxQVis3.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

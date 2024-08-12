@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxGeoPrims.h,v 1.26.2.1 2004/07/01 18:56:32 garland Exp $
+  $Id: MxGeoPrims.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

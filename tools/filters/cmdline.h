@@ -10,7 +10,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: cmdline.h,v 1.8 2000/11/20 20:58:59 garland Exp $
+  $Id: cmdline.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

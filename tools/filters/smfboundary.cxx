@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smfboundary.cxx,v 1.1 1998/10/27 01:24:18 garland Exp $
+  $Id: smfboundary.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

@@ -15,7 +15,7 @@
   understood STL.  Now that STL support is common, that code has been
   removed.
 
-  $Id: array.h,v 1.15 2002/05/20 15:27:03 garland Exp $
+  $Id: array.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

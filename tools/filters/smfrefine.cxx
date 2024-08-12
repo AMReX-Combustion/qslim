@@ -7,7 +7,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smfrefine.cxx,v 1.4 1999/03/24 15:08:57 garland Exp $
+  $Id: smfrefine.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

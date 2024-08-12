@@ -5,7 +5,7 @@ QVIS_SRCS = cmdline.cxx main.cxx output.cxx qvis.cxx
 OBJS = $(SRCS:.cxx=.o)
 QVIS_OBJS = $(QVIS_SRCS:.cxx=.o)
 
-all: qslim qvis
+#all: qslim qvis
 
 qslim : $(OBJS) ../../mixkit/src/libmix.a
 	$(CXX) -o qslim $(OBJS) $(LDFLAGS) $(LIBMIX) -lm

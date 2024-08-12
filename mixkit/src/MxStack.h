@@ -11,7 +11,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxStack.h,v 1.6 2000/11/20 20:36:38 garland Exp $
+  $Id: MxStack.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 
@@ -26,14 +26,14 @@ public:
     MxStack(const T& val, unsigned int n) : MxDynBlock<T>(n)
 	{ push(val); }
 
-    T&       top()       { return last(); }
-    const T& top() const { return last(); }
+    T&       top()       { return MxDynBlock<T>::last(); }
+    const T& top() const { return MxDynBlock<T>::last(); }
 
-    bool is_empty() { return length()==0; }
+    bool is_empty() { return MxDynBlock<T>::length()==0; }
 
-    T& pop() { return drop(); }
+    T& pop() { return MxDynBlock<T>::drop(); }
 
-    void push(const T& val) { add(val); }
+    void push(const T& val) { MxDynBlock<T>::add(val); }
     //
     // NOTE: In this code, it is *crucial* that we do the add() and
     //       assignment in separate steps.  The obvious alternative
@@ -41,7 +41,7 @@ public:
     //       broken!  The top() will grab a pointer into the block,
     //       but the add() may reallocate the block before doing the
     //       assignment.  Thus, the pointer will become invalid.
-    void push() { add(); top() = (*this)[length()-2]; }
+    void push() { MxDynBlock<T>::add(); top() = (*this)[MxDynBlock<T>::length()-2]; }
 };
 
 // MXSTACK_INCLUDED

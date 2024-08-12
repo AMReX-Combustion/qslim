@@ -6,7 +6,7 @@
 
   Copyright (C) 1998 Michael Garland, All Rights Reserved.
   
-  $Id: smferror.cxx,v 1.3 1998/11/17 22:05:43 garland Exp $
+  $Id: smferror.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

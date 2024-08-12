@@ -13,7 +13,7 @@
 
   Copyright (C) 1999 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxGUI.h,v 1.8 2000/11/20 20:36:38 garland Exp $
+  $Id: MxGUI.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

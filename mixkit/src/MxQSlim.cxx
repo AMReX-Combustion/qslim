@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxQSlim.cxx,v 1.42.2.2 2004/07/01 18:47:32 garland Exp $
+  $Id: MxQSlim.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

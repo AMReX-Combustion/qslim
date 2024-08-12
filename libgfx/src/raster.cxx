@@ -2,7 +2,7 @@
 
   Raster image support.
   
-  $Id: raster.cxx,v 1.8 2002/01/27 04:01:35 garland Exp $
+  $Id: raster.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 
@@ -11,6 +11,9 @@
 
 #include <string>
 #include <cctype>
+#include <cstring>
+
+using namespace std;
 
 ByteRaster::ByteRaster(const ByteRaster &img)
     : Raster<unsigned char>(img.width(), img.height(), img.channels())

@@ -2,7 +2,7 @@
 
   PNM image file format support
   
-  $Id: raster-pnm.cxx,v 1.3 2000/08/01 18:04:17 garland Exp $
+  $Id: raster-pnm.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

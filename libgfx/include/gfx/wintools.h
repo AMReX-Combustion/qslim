@@ -8,7 +8,7 @@
 
   Support code for handling various tasks under Win32
 
-  $Id: wintools.h,v 1.1 2002/03/19 20:46:55 garland Exp $
+  $Id: wintools.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

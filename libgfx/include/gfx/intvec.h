@@ -15,7 +15,7 @@
   Note that ANSI C defines the maximum values of integer types in
   <limits.h>.
 
-  $Id: intvec.h,v 1.7 2002/07/30 22:21:47 zelinka Exp $
+  $Id: intvec.h,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

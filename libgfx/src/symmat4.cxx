@@ -2,7 +2,7 @@
 
   4X4 Symmetric Matrix class
   
-  $Id: symmat4.cxx,v 1.3 2003/06/30 10:26:52 garland Exp $
+  $Id: symmat4.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 #include <gfx/symmat4.h>

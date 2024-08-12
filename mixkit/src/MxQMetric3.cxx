@@ -4,7 +4,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: MxQMetric3.cxx,v 1.13.2.1 2002/01/31 19:29:48 garland Exp $
+  $Id: MxQMetric3.cxx,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 

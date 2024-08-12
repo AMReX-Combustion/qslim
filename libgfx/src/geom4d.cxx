@@ -2,7 +2,7 @@
 
   Handy 4D geometrical primitives
 
-  $Id: geom4d.cxx,v 1.1 2002/05/19 18:14:46 yuanzhou Exp $
+  $Id: geom4d.cxx,v 1.1.1.1 2006/09/20 01:42:04 marc Exp $
 
  ************************************************************************/
 

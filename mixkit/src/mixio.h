@@ -11,7 +11,7 @@
 
   Copyright (C) 1998 Michael Garland.  See "COPYING.txt" for details.
   
-  $Id: mixio.h,v 1.5 2000/11/27 19:18:36 garland Exp $
+  $Id: mixio.h,v 1.1.1.1 2006/09/20 01:42:05 marc Exp $
 
  ************************************************************************/
 
