@@ -1,3 +1,10 @@
+This is a lightly modified version of qslim 2.1 for use in some tools
+for manipulating isosurfaces in the PeleAnalsis codes. qslim 2.1 was
+originally written by Michael Garland and distributed under GNU
+licenses at http://mgarland.org/software/qslim.html. See COPYING.txt
+and GPL.txt for more information. The original README is reproduced
+without modification below:
+
 ------------------------------------------------------------------------
 		    SlimKit Surface Modeling Tools
 			     Version 1.1
